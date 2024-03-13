@@ -10,7 +10,11 @@ function App() {
       </header>
       <footer>
         Click here for
-        <a href="https://github.com/zaneknn/react-weather" target="_blank">
+        <a
+          href="https://github.com/zaneknn/react-weather"
+          rel="noreferrer"
+          target="_blank"
+        >
           {" "}
           GitHub repository
         </a>
