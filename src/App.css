@@ -27,6 +27,24 @@
 .App-link {
   color: #61dafb;
 }
+.lists {
+  list-style-type: none;
+}
+.button {
+  color: #040404;
+  background-color: #9bb0db;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid black;
+}
+.search {
+  color: #040404;
+  background-color: #9bb0db;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid black;
+}
 
 @keyframes App-logo-spin {
   from {
